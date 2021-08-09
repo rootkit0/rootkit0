@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[(https://github-readme-stats.vercel.app/api?username=rootkit0)]
+[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootkit0)](https://github.com/rootkit0/github-readme-stats)
 
 <!--
 **rootkit0/rootkit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
